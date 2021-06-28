@@ -1,0 +1,10 @@
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\bin\Debug\LakeArea.exe.config
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\bin\Debug\LakeArea.exe
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\bin\Debug\LakeArea.pdb
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.csprojAssemblyReference.cache
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.Form1.resources
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.Properties.Resources.resources
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.csproj.GenerateResource.cache
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.csproj.CoreCompileInputs.cache
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.exe
+C:\anton1\СomputationalPhysics\LakeArea\LakeArea\obj\Debug\LakeArea.pdb
